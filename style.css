@@ -1,0 +1,38 @@
+
+.link-container {
+    height: 60px;
+    padding: 10px;
+    margin: 10px;
+    background: #1f2937;
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    
+}
+
+.header {
+    height: 30px;
+    width: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    color: white;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+}
+
+.logo{
+    position: absolute;
+    top: 20px;
+    left: 40px;
+
+}
+.name {
+    position: absolute;
+    top: 20px;
+    left: 120px;
+    color: white;
+}
+
+
